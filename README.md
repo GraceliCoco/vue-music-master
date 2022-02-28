@@ -55,3 +55,4 @@ npm run build
 ![歌手页面](https://github.com/Sioxas/GitImage/raw/master/screenshot/IMG_1589.PNG)
 ### 播放列表
 ![播放列表](https://github.com/Sioxas/GitImage/raw/master/screenshot/IMG_1590.PNG)
+### 新增修改
